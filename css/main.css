@@ -27,7 +27,7 @@ h1 {
 .nav a {
   text-decoration: none;
   color: #fff;
-  background-color: #2d5a4d;
+  background-color: #467366;
   border-color: #84452f;
   background-repeat: no-repeat;
   background-position: .2em center;
@@ -36,15 +36,23 @@ h1 {
 }
 
 .nav a:hover {
-  background-color: #145b1d;
+  background-color: #fff;
+  background-image: url("../images/leaf-icon.svg");
+  background-size: contain;
 }
 
 .banner {
   background-image: url("../images/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .banner-content {
   color: #fff;
+  background-image: url("../images/two-leaves.svg");
+  background-position: top;
+  background-repeat: no-repeat;
+  padding-top: 300px;
 }
 
 @media only screen and (min-width: 60em) {
