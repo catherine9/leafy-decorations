@@ -28,17 +28,15 @@ h1 {
   text-decoration: none;
   color: #fff;
   background-color: #467366;
-  border-color: #84452f;
-  background-repeat: no-repeat;
-  background-position: .2em center;
-  background-size: 1.2em auto;
-  padding-left: 1.5em;
+  border: solid 3px #2d5a4d;
+  border-radius: 6px;
 }
 
 .nav a:hover {
   background-color: #fff;
   background-image: url("../images/leaf-icon.svg");
   background-size: contain;
+  color: #145b1d;
 }
 
 .banner {
