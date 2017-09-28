@@ -17,22 +17,22 @@ h1 {
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
   text-align: center;
-  border-color: #84452f;
-  background-repeat: no-repeat;
-  background-position: .2em center;
-  background-size: 1.2em auto;
-  padding-left: 1.5em;
-  border-color: 3px solid #145b1d;
 }
 
 .nav a {
   text-decoration: none;
   color: #fff;
   background-color: #2d5a4d;
+  border-color: #84452f;
+  background-repeat: no-repeat;
+  background-position: .2em center;
+  background-size: 1.2em auto;
+  padding-left: 1.5em;
 }
 
 .nav a:hover {
